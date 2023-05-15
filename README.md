@@ -12,4 +12,3 @@
   * send email to a user that is present in the list (you!)
   * try to send email to a user that is not present in the list
   * try to send email with a wrong payload
-* **note for reviewers**: view `Email2.postman_collection.json` in the root folder for all the `Postman` calls
